@@ -27,10 +27,5 @@ Below are snapshots of the Power BI dashboards created in this project:
 
 
 
-## Full Dashboard  
-For a complete view of the dashboards, you can download the PDF:  
-[📥 Download Dashboard PDF](visualizations/ola_dashboard.pdf)  
-
-
 ## Dataset Disclaimer  
 The dataset used in this project was sourced publicly for educational purposes (via YouTube). It may not represent actual Ola data. Only a sample has been included where possible.  
