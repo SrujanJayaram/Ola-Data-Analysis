@@ -14,7 +14,7 @@ Below are snapshots of the Power BI dashboards created in this project:
 ![Overall](Visualisations/Overall.png)  
 
 ### Vehicle Type 
-![Vehicle Type](Visualisations/VehicleType.png)  
+![VehicleType](Visualisations/VehicleType.png)  
 
 ### Cancelation
 ![Cancelation](Visualisations/Cancelation.png)  
