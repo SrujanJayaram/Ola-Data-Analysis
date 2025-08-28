@@ -1,4 +1,4 @@
-# Ola Data Analysis Project 🚖
+# Ola Ride Data Analysis Project 🚖
 
 ##Overview
 This project analyses Ola ride data using **SQL** for data cleaning and querying, and **Power BI** for creating dashboards. The analysis explores ride demand, peak hours, customer behaviour, and pricing trends. The goal is to turn raw data into clear insights that can support business decisions and highlight performance drivers.  
@@ -14,7 +14,7 @@ Below are snapshots of the Power BI dashboards created in this project:
 ![Overall](Visualisations/Overall.png)  
 
 ### Vehicle Type 
-![Vehicle Type](Visualisations/Vehicle_Type.png)  
+![Vehicle Type](Visualisations/Vehicle Type.png)  
 
 ### Cancelation
 ![Cancelation](Visualisations/Cancelation.png)  
